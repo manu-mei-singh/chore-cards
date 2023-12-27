@@ -1,2 +1,6 @@
 # chore-cards
-JSON Chore objects for housework. Inspired by the Book Fair Play by Eve Rodsky
+JSON for housework. 
+Inspired by the Book Fair Play by Eve Rodsky.
+The goal of this is to create a chore list api for 
+making house work fair. 
+

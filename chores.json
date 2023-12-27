@@ -1,0 +1,162 @@
+{
+    "Rooms": [
+        {
+            "Type": "kitchen",
+            "Name": "Main Kitchen",
+            "Chores": [
+                "Dishes",
+                "Floor",
+                "Sink",
+                "Trash",
+                "Recycling",
+                "Refrigerator",
+                "Freezer",
+                "Countertops",
+                "Cabinets",
+                "Windows",
+                "Lights",
+                "Walls",
+                "Towels"
+            ]
+        },
+        {
+            "Type": "Bedroom",
+            "Name": "Bedroom",
+            "Chores":[
+                "Bed",
+                "Laundry",
+                "Humidifier",
+                "Windows",
+                "Lights",
+                "Walls",
+                "Dressers",
+                "Cabinets",
+                "bookshelves"
+            ]
+        },
+        {
+            "Type": "Bathroom",
+            "Name": "Bathroom",
+            "Chores":[
+                "Shower",
+                "Toilet",
+                "Tub",
+                "Floor",
+                "Rugs",
+                "Sink",
+                "Towels",
+                "Cabinets",
+                "Mirrors",
+                "Windows",
+                "Doors"
+            ]
+        },
+        {
+            "Type": "Living Room",
+            "Name": "Living Room",
+            "Chores":[
+                "Couches",
+                "Toys",
+                "Bookshelves",
+                "Floor",
+                "Rugs",
+                "Tables",
+                "Blankets",
+                "Cabinets",
+                "Mirrors",
+                "Windows",
+                "Art",
+                "Doors"
+            ]
+        }, 
+        {
+        "Type": "Office",
+            "Name": "Office",
+            "Chores":[
+                "Desks",
+                "Chairs",
+                "Humidifier",
+                "Windows",
+                "Lights",
+                "Walls",
+                "Electronics",
+                "Supplies",
+                "bookshelves"
+            ]
+        },
+        {
+            "Type": "Dinning Room",
+            "Name": "Dinning Room",
+            "Chores":[
+                "Table",
+                "Chairs",
+                "Windows",
+                "Lights",
+                "Walls",
+                "Cabinets",
+                "bookshelves"
+            ]
+        }
+        
+    ],
+
+    "Outdoors":[
+        {
+            "Space": "Yard",
+            "Name": "Yard",
+            "Chores": [
+                "Leaves",
+                "Trash area",
+                "Grass area,",
+                "BBQ area",
+                "Playground",
+                "Mail box"
+            ]
+        }, 
+        {
+            "Space": "Garage",
+            "Name": "Garage",
+            "Chores":[
+                "shelves",
+                "Cabinets",
+                "Doors",
+                "Floors",
+                "Walls",
+                "Equipment",
+                "bikes"
+            ]
+        }, 
+        {
+            "Space": "Car",
+            "Name": "Car",
+            "Chores":[
+                "Doors",
+                "Floors",
+                "Windows",
+                "Seats",
+                "Dashboard",
+                "trunk" 
+            ]
+        }
+    ],
+
+    "Tasks": [
+        "Clean",
+        "Organize",
+        "Restock",
+        "Take-out",
+        "Throw away",
+        "Sweep",
+        "Mop",
+        "Wash",
+        "Fold",
+        "Hang",
+        "put away",
+        "tidy",
+        "Dust",
+        "Rake",
+        "Vacuum"
+    ]     
+    
+}
+  
